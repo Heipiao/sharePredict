@@ -1,4 +1,4 @@
-# python3.8
+# python3.6
 # mysql 
 
 source env.sh
